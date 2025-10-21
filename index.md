@@ -1,8 +1,8 @@
-Privacy Policy for Vide omate
+Privacy Policy for Video mate
 
 Effective Date: October 21, 2025
 
-This Privacy Policy describes how Dreamlabs ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of our mobile application, Videomate (the "App").
+This Privacy Policy describes how Dreamlabs ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of our mobile application, Video mate (the "App").
 
 Information We Collect
 We are committed to protecting your privacy. We do not collect any personally identifiable information from you, such as your name, address, or phone number. The information we process is limited to what is necessary for the App to function and to improve our services.
